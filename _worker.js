@@ -867,9 +867,5 @@ function สร้างวเลสSub(ไอดีผู้ใช้_เส้
 }
 
 const cn_hostnames = [
-	'bing.com',                // Weibo - A popular social media platform
-	'meituan.com',                // Weibo - A popular social media platform
-	'huawei.com',                // Weibo - A popular social media platform
-	'netease.com',                // Weibo - A popular social media platform
-	'qq.com';                // Weibo - A popular social media platform
+	'netease.com'
 ];
