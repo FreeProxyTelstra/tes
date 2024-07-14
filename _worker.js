@@ -10,9 +10,9 @@ const พร็อกซีไอพีs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn-
 // if you want to use ipv6 or single พร็อกซีไอพี, please add comment at this line and remove comment at the next line
 let พร็อกซีไอพี = พร็อกซีไอพีs[Math.floor(Math.random() * พร็อกซีไอพีs.length)];
 // use single พร็อกซีไอพี instead of random
-// let พร็อกซีไอพี = 'cdn.xn--b6gac.eu.org';
+let พร็อกซีไอพี = 'cdn.xn--b6gac.eu.org';
 // ipv6 พร็อกซีไอพี example remove comment to use
-// let พร็อกซีไอพี = "[2a01:4f8:c2c:123f:64:5:6810:c55a]"
+let พร็อกซีไอพี = "[2a01:4f8:c2c:123f:64:5:6810:c55a]"
 
 let dohURL = 'https://dns.google/dns-query'; // https://cloudflare-dns.com/dns-query or 
 
@@ -867,5 +867,9 @@ function สร้างวเลสSub(ไอดีผู้ใช้_เส้
 }
 
 const cn_hostnames = [
-	'telstra.com.au',                // Weibo - A popular social media platform
+	'bing.com',                // Weibo - A popular social media platform
+	'meituan.com',                // Weibo - A popular social media platform
+	'huawei.com',                // Weibo - A popular social media platform
+	'netease.com'                // Weibo - A popular social media platform
+	'qq.com'                // Weibo - A popular social media platform
 ];
