@@ -867,5 +867,17 @@ function สร้างวเลสSub(ไอดีผู้ใช้_เส้
 }
 
 const cn_hostnames = [
-	'netease.com'
+	'netease.com',
+	'qq.com',
+	'meituan.com',
+	'huawei.com',
+	'wechat.com',
+	'alipay.com',
+	'aliyun.com',
+	'baidu.com',
+	'bilibili.com',
+	'xunlei.com',
+	'xiaomi.com',
+	'oneplus.com',
+	'binance.com'
 ];
